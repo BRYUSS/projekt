@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  background-image: url('/img/фон.jpg');
+  background-position: inherit;
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.ota{
+  margin: 80px 100px;
+}
+
+.he{
+  background: linear-gradient(90deg,rgba(255, 102, 0, 0.481),rgba(255, 128, 0, 0.383),rgba(0, 60, 255, 0.526)),url(/img/аа.avif);
+  color: black;
+  height: 75vh;
+}
+
+
+
+.ota ul li{
+  list-style: none;
+
+}
+.ota ul{
+  width: 50%;
+  margin-right: 10px;
+}
+
+.k h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.k button{
+  width: 8%;
+  border-radius: 20px;
+  border: none;
+  padding: 5px;
+}
